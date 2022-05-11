@@ -1,0 +1,46 @@
+{
+  "uid" : "b9eb50a0adaa4c30",
+  "name" : "GET /challenges (200)",
+  "fullName" : "GET /challenges (200)",
+  "historyId" : "cce2d3a508e93501a22c58f6fda230fb",
+  "time" : {
+    "start" : 1652277697873,
+    "stop" : 1652277698085,
+    "duration" : 212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "\"before all\" hook",
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Full"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9eb50a0adaa4c30.json",
+  "parameterValues" : [ ]
+}

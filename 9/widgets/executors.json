@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://mnmlsniper.github.io/githubCI",
+  "buildOrder" : 9,
+  "buildName" : "GitHub Actions Run #2307407087",
+  "buildUrl" : "https://github.com/mnmlsniper/githubCI/actions/runs/2307407087",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://mnmlsniper.github.io/githubCI/9/"
+} ]

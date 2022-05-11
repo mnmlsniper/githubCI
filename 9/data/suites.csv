@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 11 14:01:37 GMT 2022","Wed May 11 14:01:38 GMT 2022","212","Full","","","","","GET /challenges (200)",""

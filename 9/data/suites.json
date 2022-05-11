@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Full",
+    "children" : [ {
+      "name" : "GET /challenges (200)",
+      "uid" : "b9eb50a0adaa4c30",
+      "parentUid" : "0e9dd89f6bda1840df1265e6abb48deb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652277697873,
+        "stop" : 1652277698085,
+        "duration" : 212
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0e9dd89f6bda1840df1265e6abb48deb"
+  } ],
+  "name" : "suites"
+}
