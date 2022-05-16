@@ -53,9 +53,25 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
     
-    - uses: yanzay/notify-telegram@v0.1.0
+    - name: telegram v1
+      uses: yanzay/notify-telegram@v0.1.0
       if: always()
       with:
         chat: ${{ secrets.chat }} # user id or channel name secret
         token: ${{ secrets.token }} # token secret
         status: ${{ job.status }} # do not modify this line
+        
+    - name: send telegram message on push
+      uses: appleboy/telegram-action@master
+      with:
+        to: ${{ secrets.TELEGRAM_TO }}
+        token: ${{ secrets.TELEGRAM_TOKEN }}
+        message: |
+            ${{ github.actor }} created commit:
+            Commit message: ${{ github.event.commits[0].message }}
+            
+            Repository: ${{ github.repository }}
+            
+            See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
+    
+    
