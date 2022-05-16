@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "fba9444281471a40",
+      "reportUrl" : "https://mnmlsniper.github.io/githubCI/10//#testresult/fba9444281471a40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652718734991,
+        "stop" : 1652718735255,
+        "duration" : 264
+      }
+    }, {
       "uid" : "948ddbaed40c6f2c",
       "reportUrl" : "https://mnmlsniper.github.io/githubCI/10//#testresult/948ddbaed40c6f2c",
       "status" : "passed",

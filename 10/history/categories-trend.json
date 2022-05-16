@@ -4,6 +4,11 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://mnmlsniper.github.io/githubCI/10/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 9,
   "reportUrl" : "https://mnmlsniper.github.io/githubCI/9/",
   "reportName" : "Allure Report with history",

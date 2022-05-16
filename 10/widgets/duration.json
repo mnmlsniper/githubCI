@@ -1,10 +1,10 @@
 [ {
-  "uid" : "948ddbaed40c6f2c",
+  "uid" : "fba9444281471a40",
   "name" : "GET /challenges (200)",
   "time" : {
-    "start" : 1652712118772,
-    "stop" : 1652712119052,
-    "duration" : 280
+    "start" : 1652718734991,
+    "stop" : 1652718735255,
+    "duration" : 264
   },
   "status" : "passed",
   "severity" : "normal"

@@ -2,13 +2,13 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
     "name" : "GET /challenges (200)",
-    "uid" : "948ddbaed40c6f2c",
+    "uid" : "fba9444281471a40",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1652712118772,
-      "stop" : 1652712119052,
-      "duration" : 280
+      "start" : 1652718734991,
+      "stop" : 1652718735255,
+      "duration" : 264
     },
     "flaky" : false,
     "newFailed" : false,
