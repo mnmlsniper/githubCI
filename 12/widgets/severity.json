@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8b08bc87f56c24fd",
+  "name" : "GET /challenges (200)",
+  "time" : {
+    "start" : 1652721835079,
+    "stop" : 1652721835295,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
